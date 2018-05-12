@@ -1,0 +1,28 @@
+_repo: The-Rise-of-Canada-from-Barbarism-to-Wealth-and-CivilisationVolume-1_24550
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roger, Charles
+    birthdate: 1819
+    gutenberg_agent_id: '26575'
+    url: http://www.gutenberg.org/2009/agents/26575
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2008-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History'
+- !lcc 'F1001'
+title: 'The Rise of Canada, from Barbarism to Wealth and Civilisation
+
+  Volume 1'
+url: http://www.gutenberg.org/ebooks/24550
